@@ -1,67 +1,68 @@
-Islami App 🕌
+🕌 Islami App
 
-Islami App is a comprehensive Islamic application built as part of a course project. The app provides a variety of useful features for daily Islamic practices, including Quran reading, Hadith, Tasbeeh, prayer times, and Radio.
+Islami App is a comprehensive Islamic application built as part of a course project.
+The app provides a variety of useful features for daily Islamic practices, including Quran reading, Hadith, Tasbeeh, Prayer Times, and Radio.
 
-Features
+✨ Features
+📱 Splash Screen
 
-Splash Screen
+Two versions for Android:
 
-Two versions for Android: one for devices under 12" and one for devices 12" and above.
+Devices under 12"
 
-Introduction Screens
+Devices 12" and above
 
-A set of 5 screens guiding new users about the app's features.
+🧭 Introduction Screens
 
-Home Screen
+5 onboarding screens guiding new users about the app’s features.
 
-Contains 5 tabs, each with unique Islamic functionalities:
+🏠 Home Screen (Tabs)
 
-a. Quran Tab
+📖 Quran Tab
 
-Search bar for quick access to Surahs.
+Search bar for quick access to Surahs
 
-Recently viewed Surahs section.
+Recently viewed Surahs section
 
-Access to all 114 Surahs of the Quran.
+Access to all 114 Surahs of the Quran
 
-Tap on any Surah to view its full content.
+Tap on any Surah to view its full content
 
-b. Hadith Tab
+📜 Hadith Tab
 
-Contains 50 selected Hadiths.
+Contains 50 selected Hadiths
 
-Tap on any Hadith to view its full details.
+Tap to view full details
 
-c. Tasbeeh Tab
+🔢 Tasbeeh Tab
 
-Displays a counter for Zekr.
+Counter for Dhikr
 
-Automatically changes the Zekr text every 33 counts.
+Dhikr text automatically changes every 33 counts
 
-d. Radio Tab
+📻 Radio Tab
 
-Displays a list of radio stations.
+Displays a list of radio stations
 
-Streaming functionality is planned (API integration not yet implemented).
+Streaming functionality (planned for future via API)
 
-e. Time Tab
+🕰 Time Tab
 
-Shows prayer times.
+Shows prayer times
 
-Displays both Hijri and Gregorian dates.
+Displays both Hijri and Gregorian dates
 
-Includes morning, evening, and sleep Azkar.
+Includes morning, evening, and sleep Azkar
 
-
-Tech Stack
+🛠 Tech Stack
 
 Language: Dart
 
 Framework: Flutter
 
-Platform: Android (works on devices below and above 12")
+Platform: Android (supports small & large screens)
 
-Installation
+🚀 Installation
 
 Clone the repository:
 
@@ -82,14 +83,15 @@ Run the app:
 
 flutter run
 
-Future Updates
+🔮 Future Updates
 
-Integrate API for live radio streaming.
+Integrate API for live radio streaming
 
-Add notifications for prayer times.
+Add notifications for prayer times
 
-Improve UI for tablets and larger screens.
+Improve UI for tablets and larger screens
 
-Contact
+📬 Contact
 
-For any questions or suggestions, feel free to contact me at rahmafadl200@gmail.com .
+For any questions or suggestions, feel free to reach me at:
+📧 rahmafadl200@gmail.com
