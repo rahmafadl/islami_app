@@ -1,97 +1,123 @@
-🕌 Islami App
+# 🕌 **Islami App**
 
-Islami App is a comprehensive Islamic application built as part of a course project.
-The app provides a variety of useful features for daily Islamic practices, including Quran reading, Hadith, Tasbeeh, Prayer Times, and Radio.
+_Islami App_ is a comprehensive Islamic application built as part of a course project.  
+It provides a variety of useful features for daily Islamic practices, including **Quran Reading**, **Hadith**, **Tasbeeh**, **Prayer Times**, and **Radio**.
 
-✨ Features
-📱 Splash Screen
+---
 
-Two versions for Android:
+## 🛠️ **Built With**
 
-Devices under 12"
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-Devices 12" and above
+---
 
-🧭 Introduction Screens
+## ✨ **Key Features**
 
-5 onboarding screens guiding new users about the app’s features.
+### 📱 **Splash Screen**
+- Two optimized versions for Android:
+  - Devices **under 12 inches**
+  - Devices **12 inches and above**
 
-🏠 Home Screen (Tabs)
+🖼️**Preview:**
+<p float="left">
+  <img src="assets/images/app_screens/splash_screen1.png" width="200" />
+  <img src="assets/images/app_screens/splash_screen2.png" width="200" />
+</p>
 
-📖 Quran Tab
+---
 
-Search bar for quick access to Surahs
+### 🧭 **Introduction Screens**
+- A set of 5 onboarding screens introducing the app’s main features.
+- Modern UI and simple navigation.
 
-Recently viewed Surahs section
-
-Access to all 114 Surahs of the Quran
-
-Tap on any Surah to view its full content
-
-📜 Hadith Tab
-
-Contains 50 selected Hadiths
-
-Tap to view full details
-
-🔢 Tasbeeh Tab
-
-Counter for Dhikr
-
-Dhikr text automatically changes every 33 counts
-
-📻 Radio Tab
-
-Displays a list of radio stations
-
-Streaming functionality (planned for future via API)
-
-🕰 Time Tab
-
-Shows prayer times
-
-Displays both Hijri and Gregorian dates
-
-Includes morning, evening, and sleep Azkar
-
-🛠 Tech Stack
-
-Language: Dart
-
-Framework: Flutter
-
-Platform: Android (supports small & large screens)
-
-🚀 Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/islami_app.git
+🖼️ **Preview:**
+<p float="left">
+  <img src="assets/images/app_screens/introduction1.png" width="150" />
+  <img src="assets/images/app_screens/introduction2.png" width="150" />
+  <img src="assets/images/app_screens/introduction3.png" width="150" />
+  <img src="assets/images/app_screens/introduction4.png" width="150" />
+  <img src="assets/images/app_screens/introduction5.png" width="150" />
+</p>
 
 
-Navigate to the project folder:
+---
+
+### 🏠 **Home Screen (Tabs)**
+
+#### 📖 **Quran Tab**
+- Search bar for quick access to Surahs.  
+- Recently viewed Surahs section.  
+- Access to all 114 Surahs.  
+- Tap any Surah to read its full content.
+
+#### 📜 **Hadith Tab**
+- Contains 50 authentic Hadiths.  
+- Tap any Hadith to view detailed content.
+
+#### 🔢 **Tasbeeh Tab**
+- Digital counter for Zekr (**Tasbeeh, Tahmeed, Takbeer, ets**).  
+- Zekr text automatically changes every 33 counts.
+
+#### 📻 **Radio Tab**
+- Displays a list of Islamic radio stations.  
+- *(Future plan: integrate live streaming API.)*
+
+#### 🕰 **Time Tab**
+- Displays daily prayer times.  
+- Shows both Hijri and Gregorian dates.  
+- Includes Azkar for morning, evening, and before sleep.
+
+🖼️ **Preview:**
+<p float="left">
+  <img src="assets/images/app_screens/home_screen_tab1.png" width="120" />
+  <img src="assets/images/app_screens/home_screen_tab2.png" width="120" />
+  <img src="assets/images/app_screens/home_screen_tab3.png" width="120" />
+  <img src="assets/images/app_screens/home_screen_tab4.png" width="120" />
+  <img src="assets/images/app_screens/home_screen_tab5.png" width="120" />
+</p>
+
+
+---
+**🚀 Installation / How to Run**
+
+Follow these steps to run the app locally:
+
+**1. Clone the repository**
+
+git clone https://github.com/rahmafadl/islami_app.git
+
+**2. Navigate to the project folder**
 
 cd islami_app
 
-
-Install dependencies:
+**3. Install dependencies**
 
 flutter pub get
 
-
-Run the app:
+**4. Run the app**
 
 flutter run
 
-🔮 Future Updates
+---
+**🔮 Future Updates**
 
-Integrate API for live radio streaming
+- Integrate live radio streaming API
 
-Add notifications for prayer times
+- Add notifications for prayer times
 
-Improve UI for tablets and larger screens
+- Improve UI for tablets and larger screens
 
-📬 Contact
+- Add more Azkar, Duas, and features in Tasbeeh tab
 
-For any questions or suggestions, feel free to reach me at:
-📧 rahmafadl200@gmail.com
+---
+
+## 📬 Contact / Feedback
+
+For any questions, suggestions, or feedback:
+
+**Email:** rahmafadl200@gmail.com  
+**GitHub:** https://github.com/rahmafadl
+
+---
