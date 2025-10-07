@@ -38,4 +38,21 @@ class AppAssets {
   static const String morningAzkar = 'assets/images/morning.png';
   static const String eveningAzkar = 'assets/images/evening.png';
   static const String sleepAzkar = 'assets/images/sleep.png';
+
+  //App Screens
+  static const String splashScreen1 = 'assets/images/app_screens/splash_screen1.png';
+  static const String splashScreen2 = 'assets/images/app_screens/splash_screen2.png';
+  static const String introductionScreen1 = 'assets/images/app_screens/introduction1.png';
+  static const String introductionScreen2 = 'assets/images/app_screens/introduction2.png';
+  static const String introductionScreen3 = 'assets/images/app_screens/introduction3.png';
+  static const String introductionScreen4 = 'assets/images/app_screens/introduction4.png';
+  static const String introductionScreen5 = 'assets/images/app_screens/introduction5.png';
+  static const String homeTab1 = 'assets/images/app_screens/home_screen_tab1.png';
+  static const String homeTab2 = 'assets/images/app_screens/home_screen_tab2.png';
+  static const String homeTab3 = 'assets/images/app_screens/home_screen_tab3.png';
+  static const String homeTab4 = 'assets/images/app_screens/home_screen_tab4.png';
+  static const String homeTab5 = 'assets/images/app_screens/home_screen_tab5.png';
+
+
+
 }
